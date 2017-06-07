@@ -1,0 +1,14 @@
+c:\users\андрей\documents\visual studio 2015\Projects\nums\nums\bin\Debug\nums.exe.config
+c:\users\андрей\documents\visual studio 2015\Projects\nums\nums\bin\Debug\nums.exe
+c:\users\андрей\documents\visual studio 2015\Projects\nums\nums\bin\Debug\nums.pdb
+c:\users\андрей\documents\visual studio 2015\Projects\nums\nums\obj\Debug\nums.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2015\Projects\nums\nums\obj\Debug\nums.Form1.resources
+c:\users\андрей\documents\visual studio 2015\Projects\nums\nums\obj\Debug\nums.Properties.Resources.resources
+c:\users\андрей\documents\visual studio 2015\Projects\nums\nums\obj\Debug\nums.csproj.GenerateResource.Cache
+c:\users\андрей\documents\visual studio 2015\Projects\nums\nums\obj\Debug\nums.exe
+c:\users\андрей\documents\visual studio 2015\Projects\nums\nums\obj\Debug\nums.pdb
+c:\users\андрей\documents\visual studio 2015\Projects\nums\nums\bin\Debug\Newtonsoft.Json.dll
+c:\users\андрей\documents\visual studio 2015\Projects\nums\nums\bin\Debug\Newtonsoft.Json.xml
+E:\Nums\nums\bin\Debug\nums.exe.config
+E:\Nums\nums\obj\Debug\nums.exe
+E:\Nums\nums\obj\Debug\nums.pdb
